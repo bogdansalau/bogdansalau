@@ -14,23 +14,6 @@
  </h3>
   
 <br>
-<p align="center">
-  🎓 Teacher assistant => Functional programming; Data structures and algorithms
-  <br>
-  💻 Software developer
-  <br>
-  📫 How to reach me: <a href="mailto: bogdan.salau2597@gmail.com">bogdan.salau2597@gmail.com</a>
-</p>
-
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=bogdansalau&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogdansalau&hide=c%23, powershell, java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
-</p>
-
 
 <!--
 **bogdansalau/bogdansalau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
