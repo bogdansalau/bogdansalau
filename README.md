@@ -11,7 +11,7 @@
   
 <br>
 <p align="center">
-  🎓 Teacher assistant => Functional programming; Data structures and algorithms
+  🎓 Teacher assistant => Functional programming
   <br>
   💻 Software developer
   <br>
