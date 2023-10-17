@@ -14,8 +14,6 @@
   🎓 Teacher assistant => Functional programming
   <br>
   💻 Software developer
-  <br>
-  📫 How to reach me: <a href="mailto: bogdan.salau2597@gmail.com">bogdan.salau2597@gmail.com</a>
 </p>
 
 <!--
