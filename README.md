@@ -11,9 +11,9 @@
   
 <br>
 <p align="center">
-  🎓 Teacher assistant => Functional programming
+  🎓 Uni professor => Functional programming
   <br>
-  💻 Software developer
+  💻 Software engineer
 </p>
 
 <!--
